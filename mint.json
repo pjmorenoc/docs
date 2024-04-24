@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Testia",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -52,20 +52,20 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "Introducción",
+        "Nuestra API",
+        "Kit development"
       ]
     },
     {
       "group": "Essentials",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/api-key",
+        "essentials/endpoints",
+        "essentials/control-errores",
+        "essentials/configuracion",
+        "essentials/preguntas-frecuentes",
+        "essentials/coleccion-postman"
       ]
     },
     {
